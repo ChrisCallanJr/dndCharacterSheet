@@ -59,7 +59,7 @@ Proficiency Bonus: +3
 | Nature(INT)          | +1 |
 | (x)Perception(WIS)   | +3 |
 | Performance(CHA)     | +4 |
-| Persuasion(CHA)      | +7 |
+| (x)Persuasion(CHA)   | +7 |
 | Religion(INT)        | +1 |
 | Sleight of Hand(DEX) | +2 |
 | Stealth(DEX)         | +2 |
