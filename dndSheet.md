@@ -35,34 +35,35 @@ Proficiency Bonus: +3
 | 8        | 14        | 15           | 13           | 10     | 18       |
 | -1       | +2        | +2           | +1           | 0      | +4       |
 
-| Saving Throws   |    |            | Skills               |    |
-|-----------------|----|            |----------------------|----|
-| Strength        | -1 |            | Acrobatics(DEX)      | +2 | 
-| Dexterity       | +2 |            | Animal Handling(WIS) |  0 |
-| Constitution(x) | +5 |            | (x)Arcana(INT)       | +4 |
-| Intelligence    | +1 |            | Athletics(STR)       | -1 |
-| Wisdom          |  0 |            | (x)Deception(CHA)    | +7 |
-| Charisma(x)     | +7 |            | (x)History(INT)      | +4 |
-                                    | Insight(WIS)         |  0 |
-                                    | Intimidation(CHA)    | +4 |
-                                    | Investigation(INT)   | +1 |
-                                    | Medicine(WIS)        |  0 |
-                                    | Nature(INT)          | +1 |
-                                    | (x)Perception(WIS)   | +3 |
-                                    | Performance(CHA)     | +4 |
-                                    | Persuasion(CHA)      | +7 |
-                                    | Religion(INT)        | +1 |
-                                    | Sleight of Hand(DEX) | +2 |
-                                    | Stealth(DEX)         | +2 |
-                                    | Survival(WIS)        |  0 |
+| Saving Throws   |    |
+|-----------------|----|
+| Strength        | -1 |
+| Dexterity       | +2 |
+| Constitution(x) | +5 |
+| Intelligence    | +1 |
+| Wisdom          |  0 |
+| Charisma(x)     | +7 |
 
-Charisma: 18/+4
--> Saving Throw(x): +7
-  -> Skills:
-    -> Deception(x): +7
-    -> Intimidation(): +4
-    -> Performance(): +4
-    -> Persuasion(x): +7
+| Skills               |    |
+|----------------------|----|
+| Acrobatics(DEX)      | +2 |
+| Animal Handling(WIS) |  0 |
+| (x)Arcana(INT)       | +4 |
+| Athletics(STR)       | -1 |
+| (x)Deception(CHA)    | +7 |
+| (x)History(INT)      | +4 |
+| Insight(WIS)         |  0 |
+| Intimidation(CHA)    | +4 |
+| Investigation(INT)   | +1 |
+| Medicine(WIS)        |  0 |
+| Nature(INT)          | +1 |
+| (x)Perception(WIS)   | +3 |
+| Performance(CHA)     | +4 |
+| Persuasion(CHA)      | +7 |
+| Religion(INT)        | +1 |
+| Sleight of Hand(DEX) | +2 |
+| Stealth(DEX)         | +2 |
+| Survival(WIS)        |  0 |
 
 Spell Save DC: 8 + Proficiency + CHA mod = 15
 
