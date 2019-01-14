@@ -94,7 +94,7 @@ Languages: Common, Elvish, Primordial, Abyssal, Giant, Draconic
 
 Skills: Darkvision, Fey Ancestry(Saving Throws against being Charmed, and magic can’t put you to sleep.)
 
-## Features and Trait
+## Features and Traits
 
 ### Fonts of Magic:
 
@@ -117,6 +117,18 @@ When you Cast a Spell that forces other creatures to make a saving throw, you ca
 #### Empowered Spell
 
 When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls. You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+
+### Tempestuous Magic
+
+Starting at 1st level, you can use a bonus action on your turn to cause whirling gusts of elemental air to briefly surround you, immediately before or after you cast a spell of 1st level or higher. Doing so allows you to fly up to 10 feet without provoking opportunity attacks.
+
+### Heart of the Storm
+
+At 6th level, you gain resistance to lightning and thunder damage. In addition, whenever you start casting a spell of 1st level or higher that deals lightning or thunder damage, stormy magic erupts from you. This eruption causes creatures of your choice that you can see within 10 feet of you to take lightning or thunder damage (choose each time this ability activates) equal to half your sorcerer level.
+
+### Storm Guide
+
+If it is raining, you can use an action to cause the rain to stop falling in a 20-foot-radius sphere centered on you. You can end this effect as a bonus action. If it is windy, you can use a bonus action each round to choose the direction that the wind blows in a 100-foot-radius sphere centered on you. The wind blows in that direction until the end of your next turn. This feature doesn't alter the speed of the wind.
 
 Magic
 -> Cantrips:
