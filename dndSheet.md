@@ -78,9 +78,10 @@ Sorcerer Points: 8
 
 Current Inventory: Light crossbow, 20 bolts, 2 Daggers
 
-|-------------------|-----|----------|--------|
-| Light Crossbow(x) | 1d8 | Piercing | 80/320 | 
-| Dagger(x)         | 1d4 | Piercing | 20/60  |
+| Weapon            | Damage | Type     | Range  |
+|:-----------------:|:------:|:--------:|:------:|
+| Light Crossbow(x) | 1d8    | Piercing | 80/320 | 
+| Dagger(x)         | 1d4    | Piercing | 20/60  |
 
 ## Equipment
 
