@@ -87,7 +87,9 @@ arcane focus, backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox,
 
 ## Proficiencies and Languages:
 Proficiencies: Daggers, darts, slings, quarterstaffs, light crossbows
-Languages: Common, Elvish, Primordial, Abyssal, Giant, Draconic 
+
+Languages: Common, Elvish, Primordial, Abyssal, Giant, Draconic
+
 Skills: Darkvision, Fey Ancestry(Saving Throws against being Charmed, and magic can’t put you to sleep.)
 
 Features and Trait:
