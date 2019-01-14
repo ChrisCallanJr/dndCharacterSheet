@@ -1,5 +1,5 @@
 # DnD Character Sheet
-[Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) |
+[Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) | [Weapons](#weapons) | [Equipment](#equipment) | [Languages and Proficiencies](#languages-and-proficiencies) |
 
 ## Basic Info
 
@@ -28,6 +28,14 @@ Hit Points(Max):
 Hit Dice: 1d6
 
 Proficiency Bonus: +3
+
+Passive Wisdom: 10
+
+Spell Save DC: 8 + Proficiency + CHA mod = 15
+
+Spell Attack Modifier: Proficiency + CHA mod = 7
+
+Sorcerer Points: 8
 
 ## Ability Scores
 
@@ -66,17 +74,21 @@ Proficiency Bonus: +3
 | Stealth(DEX)         | +2 |
 | Survival(WIS)        |  0 |
 
-Spell Save DC: 8 + Proficiency + CHA mod = 15
+## Weapons
 
-Spell Attack Modifier: Proficiency + CHA mod = 7
+Current Inventory: Light crossbow, 20 bolts, 2 Daggers
 
-Passive Wisdom: 10
+| Light Crossbow(x) | 1d8 | Piercing | 80/320 | 
+| Dagger(x)         | 1d4 | Piercing | 20/60  |
 
-Equipment: light crossbow and 20 bolts, 2 daggers, arcane focus, backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, 50ft hempen rope and a waterskin
+## Equipment
 
-Other Proficiencies and Languages: 
--> Langs: Common, Elvish, Primordial, Abyssal, Giant, Draconic 
--> Skills: Darkvision
+arcane focus, backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, 50ft hempen rope and a waterskin
+
+## Proficiencies and Languages:
+Proficiencies: Daggers, darts, slings, quarterstaffs, light crossbows
+Languages: Common, Elvish, Primordial, Abyssal, Giant, Draconic 
+Skills: Darkvision, Fey Ancestry(Saving Throws against being Charmed, and magic can’t put you to sleep.)
 
 Features and Trait:
 -> Fonts of Magic:
