@@ -99,6 +99,7 @@ Skills: Darkvision, Fey Ancestry(Saving Throws against being Charmed, and magic 
 ### Fonts of Magic:
 
 Can convert sorcery points to spell slots and vice versa at following rates:
+
 | Spell Slot Level | Sorcery Point Cost |
 |------------------|--------------------|
 |         1st      |        2           |
