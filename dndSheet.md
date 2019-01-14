@@ -1,12 +1,20 @@
-Half Elf Storm Sorcerer
+# DnD Character Sheet
 
-Alignment: Chaotic Neutral
+## Basic Info
 
 Name: Saelihn
+
+Class: Storm Sorcerer
+
+Race: Half-Elf
+
+Alignment: Chaotic Neutral
 
 Age: 29ish
 
 Background: Sage
+
+## Basic Stats
 
 Armor Class: 12
 
@@ -14,11 +22,27 @@ Initiative: +2
 
 Speed: 30ft
 
-Hit Points:
+Hit Points(Max):
 
 Hit Dice: 1d6
 
 Proficiency Bonus: +3
+
+## Ability Scores
+
+| Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
+| ---      |  ---      |  ---         |  --          |  ---   |  ---     |
+| 8        | 14        | 15           | 13           | 10     | 18       |
+| -1       | +2        | +2           | +1           | 0      | +4       |
+
+| Saving Throws   |    |
+|-----------------|----|
+| Strength        | -1 |
+| Dexterity       | +2 |
+| Constitution(x) | +5 |
+| Intelligence    | +1 |
+| Wisdom          |  0 |
+| Charisma(x)     | +7 |
 
 Strength: 8/-1
 -> Saving Throw(): -1
