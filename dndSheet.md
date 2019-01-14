@@ -1,4 +1,5 @@
 # DnD Character Sheet
+[Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) |
 
 ## Basic Info
 
