@@ -35,47 +35,26 @@ Proficiency Bonus: +3
 | 8        | 14        | 15           | 13           | 10     | 18       |
 | -1       | +2        | +2           | +1           | 0      | +4       |
 
-| Saving Throws   |    |
-|-----------------|----|
-| Strength        | -1 |
-| Dexterity       | +2 |
-| Constitution(x) | +5 |
-| Intelligence    | +1 |
-| Wisdom          |  0 |
-| Charisma(x)     | +7 |
-
-Strength: 8/-1
--> Saving Throw(): -1
-  -> Skills:
-    -> Athletics(): -1
-
-Dexterity: 14/+2
--> Saving Throw(): +2
-  -> Skills:
-    -> Acrobatics(): +2
-    -> Sleight of Hand(): +2
-    -> Stealth(): +2
-
-Constitution: 15/+2
--> Saving Throw(x): +5
-
-Intelligence: 13/+1
--> Saving Throw(): +1
-  -> Skills:
-    -> Arcana(x): +4
-    -> History(x): +4
-    -> Investigation(): +1
-    -> Nature(): +1
-    -> Religion(): +1
-
-Wisdom: 10/0
--> Saving Throw(): 0
-  -> Skills:
-    -> Animal Handling(): 0
-    -> Insight(): 0
-    -> Medicine(): 0
-    -> Perception(x): +3
-    -> Survival(): 0
+| Saving Throws   |    |            | Skills               |    |
+|-----------------|----|            |----------------------|----|
+| Strength        | -1 |            | Acrobatics(DEX)      | +2 | 
+| Dexterity       | +2 |            | Animal Handling(WIS) |  0 |
+| Constitution(x) | +5 |            | (x)Arcana(INT)       | +4 |
+| Intelligence    | +1 |            | Athletics(STR)       | -1 |
+| Wisdom          |  0 |            | (x)Deception(CHA)    | +7 |
+| Charisma(x)     | +7 |            | (x)History(INT)      | +4 |
+                                    | Insight(WIS)         |  0 |
+                                    | Intimidation(CHA)    | +4 |
+                                    | Investigation(INT)   | +1 |
+                                    | Medicine(WIS)        |  0 |
+                                    | Nature(INT)          | +1 |
+                                    | (x)Perception(WIS)   | +3 |
+                                    | Performance(CHA)     | +4 |
+                                    | Persuasion(CHA)      | +7 |
+                                    | Religion(INT)        | +1 |
+                                    | Sleight of Hand(DEX) | +2 |
+                                    | Stealth(DEX)         | +2 |
+                                    | Survival(WIS)        |  0 |
 
 Charisma: 18/+4
 -> Saving Throw(x): +7
