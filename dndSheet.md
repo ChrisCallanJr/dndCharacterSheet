@@ -87,28 +87,35 @@ Current Inventory: Light crossbow, 20 bolts, 2 Daggers
 
 arcane focus, backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, 50ft hempen rope and a waterskin
 
-## Proficiencies and Languages:
+## Proficiencies and Languages
 Proficiencies: Daggers, darts, slings, quarterstaffs, light crossbows
 
 Languages: Common, Elvish, Primordial, Abyssal, Giant, Draconic
 
 Skills: Darkvision, Fey Ancestry(Saving Throws against being Charmed, and magic can’t put you to sleep.)
 
-Features and Trait:
--> Fonts of Magic:
-  Can convert sorcery points to spell slots and vice versa at following rates:
-      Spell Slot Level:    Sorcery Point Cost:
-              1st                   2
-              2nd                   3
-              3rd                   5
-              4th                   6
-              5th                   7
-	Sorcery Points at current level: 8
--> Metamagic:
-	-> Careful Spell
-		-> When you Cast a Spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
-	-> Empowered Spell
-		-> When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls. You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+## Features and Trait
+
+### Fonts of Magic:
+
+Can convert sorcery points to spell slots and vice versa at following rates:
+| Spell Slot Level | Sorcery Point Cost |
+|------------------|--------------------|
+|         1st      |        2           |
+|         2nd      |        3           |
+|         3rd      |        5           |
+|         4th      |        6           |
+|         5th      |        7           |
+
+### Metamagic:
+
+#### Careful Spell
+
+When you Cast a Spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. To do so, you spend 1 sorcery point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
+
+#### Empowered Spell
+
+When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls. You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
 Magic
 -> Cantrips:
