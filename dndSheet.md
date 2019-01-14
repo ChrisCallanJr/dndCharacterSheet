@@ -1,5 +1,5 @@
 # DnD Character Sheet
-[Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) | [Weapons](#weapons) | [Equipment](#equipment) | [Proficiencies and Languages](#proficiencies-and-languages) |
+[Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) | [Weapons](#weapons) | [Equipment](#equipment) | [Proficiencies and Languages](#proficiencies-and-languages) | [Features and Traits](#features-and-traits) | [Magic](#magic) |
 
 ## Basic Info
 
