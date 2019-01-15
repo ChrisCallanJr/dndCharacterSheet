@@ -3,7 +3,7 @@
 
 ## Basic Info
 
-Name: Saelihn
+Name: Alagos
 
 Class: Storm Sorcerer
 
