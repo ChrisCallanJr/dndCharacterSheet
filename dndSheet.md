@@ -33,9 +33,9 @@ Proficiency Bonus: +4
 
 Passive Wisdom: 10
 
-Spell Save DC: 8 + Proficiency + CHA mod = 15
+Spell Save DC: 8 + Proficiency + CHA mod = 16
 
-Spell Attack Modifier: Proficiency + CHA mod = 7
+Spell Attack Modifier: Proficiency + CHA mod = 8
 
 Sorcerer Points: 9
 
@@ -60,18 +60,18 @@ Sorcerer Points: 9
 |----------------------|----|
 | Acrobatics(DEX)      | +2 |
 | Animal Handling(WIS) |  0 |
-| (x)Arcana(INT)       | +4 |
+| (x)Arcana(INT)       | +5 |
 | Athletics(STR)       | -1 |
-| (x)Deception(CHA)    | +7 |
-| (x)History(INT)      | +4 |
+| (x)Deception(CHA)    | +8 |
+| (x)History(INT)      | +5 |
 | Insight(WIS)         |  0 |
 | Intimidation(CHA)    | +4 |
 | Investigation(INT)   | +1 |
 | Medicine(WIS)        |  0 |
 | Nature(INT)          | +1 |
-| (x)Perception(WIS)   | +3 |
+| (x)Perception(WIS)   | +4 |
 | Performance(CHA)     | +4 |
-| (x)Persuasion(CHA)   | +7 |
+| (x)Persuasion(CHA)   | +8 |
 | Religion(INT)        | +1 |
 | Sleight of Hand(DEX) | +2 |
 | Stealth(DEX)         | +2 |
