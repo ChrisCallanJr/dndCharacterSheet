@@ -2,6 +2,7 @@
 [Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) | [Weapons](#weapons) | [Equipment](#equipment) | [Proficiencies and Languages](#proficiencies-and-languages) | [Features and Traits](#features-and-traits) | [Magic](#magic) |
 
 ## Basic Info
+[Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) | [Weapons](#weapons) | [Equipment](#equipment) | [Proficiencies and Languages](#proficiencies-and-languages) | [Features and Traits](#features-and-traits) | [Magic](#magic) |
 
 Name: Alagos
 
@@ -16,6 +17,7 @@ Age: 29ish
 Background: Sage
 
 ## Basic Stats
+[Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) | [Weapons](#weapons) | [Equipment](#equipment) | [Proficiencies and Languages](#proficiencies-and-languages) | [Features and Traits](#features-and-traits) | [Magic](#magic) |
 
 Armor Class: 12
 
@@ -38,6 +40,7 @@ Spell Attack Modifier: Proficiency + CHA mod = 7
 Sorcerer Points: 9
 
 ## Ability Scores
+[Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) | [Weapons](#weapons) | [Equipment](#equipment) | [Proficiencies and Languages](#proficiencies-and-languages) | [Features and Traits](#features-and-traits) | [Magic](#magic) |
 
 | Strength | Dexterity | Constitution | Intelligence | Wisdom | Charisma |
 | ---      |  ---      |  ---         |  --          |  ---   |  ---     |
@@ -75,6 +78,7 @@ Sorcerer Points: 9
 | Survival(WIS)        |  0 |
 
 ## Weapons
+[Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) | [Weapons](#weapons) | [Equipment](#equipment) | [Proficiencies and Languages](#proficiencies-and-languages) | [Features and Traits](#features-and-traits) | [Magic](#magic) |
 
 Current Inventory: Light crossbow, 20 bolts, 2 Daggers
 
@@ -84,10 +88,13 @@ Current Inventory: Light crossbow, 20 bolts, 2 Daggers
 | Dagger(x)         | 1d4    | Piercing | 20/60  |
 
 ## Equipment
+[Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) | [Weapons](#weapons) | [Equipment](#equipment) | [Proficiencies and Languages](#proficiencies-and-languages) | [Features and Traits](#features-and-traits) | [Magic](#magic) |
 
 arcane focus, backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, 50ft hempen rope and a waterskin
 
 ## Proficiencies and Languages
+[Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) | [Weapons](#weapons) | [Equipment](#equipment) | [Proficiencies and Languages](#proficiencies-and-languages) | [Features and Traits](#features-and-traits) | [Magic](#magic) |
+
 Proficiencies: Daggers, darts, slings, quarterstaffs, light crossbows
 
 Languages: Common, Elvish, Primordial, Abyssal, Giant, Draconic
@@ -95,6 +102,7 @@ Languages: Common, Elvish, Primordial, Abyssal, Giant, Draconic
 Skills: Darkvision, Fey Ancestry(Saving Throws against being Charmed, and magic can’t put you to sleep.)
 
 ## Features and Traits
+[Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) | [Weapons](#weapons) | [Equipment](#equipment) | [Proficiencies and Languages](#proficiencies-and-languages) | [Features and Traits](#features-and-traits) | [Magic](#magic) |
 
 ### Fonts of Magic:
 
