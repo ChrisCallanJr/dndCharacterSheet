@@ -27,7 +27,7 @@ Hit Points(Max):
 
 Hit Dice: 1d6
 
-Proficiency Bonus: +3
+Proficiency Bonus: +4
 
 Passive Wisdom: 10
 
@@ -35,7 +35,7 @@ Spell Save DC: 8 + Proficiency + CHA mod = 15
 
 Spell Attack Modifier: Proficiency + CHA mod = 7
 
-Sorcerer Points: 8
+Sorcerer Points: 9
 
 ## Ability Scores
 
