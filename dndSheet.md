@@ -37,7 +37,7 @@ Spell Save DC: 8 + Proficiency + CHA mod = 16
 
 Spell Attack Modifier: Proficiency + CHA mod = 8
 
-Sorcerer Points: 9
+Sorcerer Points: 10
 
 ## Ability Scores
 [Basic Info](#basic-info) | [Basic Stats](#basic-stats) | [Ability Scores](#ability-scores) | [Weapons](#weapons) | [Equipment](#equipment) | [Proficiencies and Languages](#proficiencies-and-languages) | [Features and Traits](#features-and-traits) | [Magic](#magic) |
@@ -126,6 +126,10 @@ When you Cast a Spell that forces other creatures to make a saving throw, you ca
 
 When you roll damage for a spell, you can spend 1 sorcery point to reroll a number of the damage dice up to your Charisma modifier (minimum of one). You must use the new rolls. You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
 
+#### Heightened Spell
+
+When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw made against the spell.
+
 ### Tempestuous Magic:
 
 Starting at 1st level, you can use a bonus action on your turn to cause whirling gusts of elemental air to briefly surround you, immediately before or after you cast a spell of 1st level or higher. Doing so allows you to fly up to 10 feet without provoking opportunity attacks.
@@ -158,6 +162,12 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 #### Dancing Lights
 
 You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10- foot radius. As a bonus action on your turn, you can move the lights up to 60 feet to a new spot within range. A light must be within 20 feet of another light created by this spell, and a light winks out if it exceeds the spell's range.
+
+#### Firebolt
+
+You hurl a mote of fire at a creature or object within range. Make a ranged spell Attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
+
+This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 ### 1st Level
 
@@ -199,3 +209,11 @@ A hail of rock-hard ice pounds to the ground in a 20- foot-radius, 40-foot-high 
 #### Banishment
 
 You attempt to send one creature that you can see within range to another plane of existence. The target must succeed on a Charisma saving throw or be banished. If the target is native to the plane of existence you're on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. If the target is native to a different plane of existence than the one you're on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn't return. 
+
+### 5th Level
+
+#### Cloudkill
+
+You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured.
+When a creature enters the spell's area for the first time on a turn or starts its turn there, that creature must make a Constitution saving throw. The creature takes 5d8 poison damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don't need to breathe.
+The fog moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings. 
